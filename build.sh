@@ -29,5 +29,5 @@ wuffs-c gen -package_name demo < wuffs/parse.wuffs > src/parse.c
 # ./bin/n.out
 
 echo ------ Wuffs Impl Prints ------
-$CC src/main.c src/wuffs-parse.c -o bin/w.out
-./bin/w.out
+$CC src/main.c src/wuffs-parse.c -o bin/csv_parser.bin
+./bin/csv_parser.bin
