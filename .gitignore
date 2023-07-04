@@ -1,0 +1,11 @@
+**/*.txt
+**/*~
+**/#*
+**/*#
+bin
+.gdb*
+first
+first*
+G*
+ID
+vg*
